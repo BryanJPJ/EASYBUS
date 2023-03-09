@@ -1,7 +1,7 @@
 {
     "meta": {
         "app_id": "org.example.same.identifier.manifest.package",
-        "app_title": "https://unidaddegenero.files.wordpress.com/2018/10/emtusa-logo.png",
+        "app_title": "EASY BUS",
         "version": 1,
         "updated": "2022-09-26",
         "source_url": "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/data.json",
@@ -29,8 +29,8 @@
                     "type": "statue",
                     "name": "My Statue",
                     "images": [
-                        "https://unidaddegenero.files.wordpress.com/2018/10/emtusa-logo.png",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID_2.jpg"
+                        "https://cualbondi.com.ar/media/recorrido.webp/recorrido-1568273.880x300_A67UxAZ.webp",
+                        ""
                     ],
                     "description": "One-paragraph description",
                     "more": "More description, if you want",
@@ -46,8 +46,8 @@
                     "type": "statue",
                     "name": "My Statue",
                     "images": [
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID2_1.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID2_2.jpg"
+                        "https://cualbondi.com.ar/media/recorrido.webp/recorrido-4616557.880x300_r7w4uVt.webp",
+                        ""
                     ],
                     "description": "One-paragraph description",
                     "more": "More description, if you want",
