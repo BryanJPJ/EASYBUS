@@ -41,8 +41,8 @@
                 },
                 {
                     "id": "uniqueID-2",
-                    "lat": "50.9",
-                    "lon": "4.8",
+                    "lat": "43.53969745921044",
+                    "lon": "-5.665997304236749",
                     "type": "RECORRIDO",
                     "name": "Linea 25",
                     "images": [
@@ -58,8 +58,8 @@
                 },
                      {
                     "id": "uniqueID-2",
-                    "lat": "50.9",
-                    "lon": "4.8",
+                    "lat": "43.54159772827816",
+                    "lon": "-5.661339244098268",
                     "type": "RECORRIDO",
                     "name": "Linea 9",
                     "images": [
