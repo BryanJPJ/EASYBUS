@@ -61,13 +61,13 @@
                     "lat": "50.9",
                     "lon": "4.8",
                     "type": "RECORRIDO",
-                    "name": "Linea 25",
+                    "name": "Linea 9",
                     "images": [
-                        "https://cualbondi.com.ar/media/recorrido.webp/recorrido-4616557.880x300_r7w4uVt.webp",
+                        "https://cualbondi.com.ar/media/recorrido.webp/recorrido-1572337.880x300_7HP5h1G.webp",
                         ""
                     ],
-                    "description": "LINEA 25",
-                    "more": "Recorrido de la 25",
+                    "description": "LINEA 9",
+                    "more": "Recorrido de la 9",
                     "urls": [
                         "https://nl.wikipedia.org/MyPoi",
                         "https://example.org/mypoi"
